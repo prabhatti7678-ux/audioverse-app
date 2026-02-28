@@ -1,0 +1,4 @@
+{
+  "name": "Flutter Dev",
+  "image": "mcr.microsoft.com/devcontainers/flutter:latest"
+}
